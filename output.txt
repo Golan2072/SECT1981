@@ -1,0 +1,78 @@
+0103 Ceres        A646469-B G  Ni           
+0105 Hestia       D220654-4    De Na Ni PoS  
+0106 Artemis      C463721-4 G  Ri        S  
+0109 Juventas     A767596-B G  Ag Ni        
+0110 Hypnos       B76A787-9 G  Ri Wa        
+0201 Dionysus     C424A98-9 G  In           
+0202 Poseidon     E57879A-4    Ag           
+0206 Domovoi      B555421-A G  Ni        N  
+0207 Arcus        C512513-A G  Ic Ni        
+0209 Ceres        A310100-B              N  
+0307 Uni          B488335-9 G               
+0309 Zeus         D677777-2 G  Ag           
+0401 Juventas     A77A166-A G  Wa           
+0403 Chloris      B2037AA-9 G  Ic Na Va     
+0405 Persephone   A220213-B G  De Po        
+0407 Tinia        B561411-9 G  Ni        N  
+0409 Artemis      A521656-B G  Na Ni Po     
+0504 Selene       B220534-A G  De Ni Po  N  
+0506 Hestia       X585ACA-4                 
+0507 Pluto        AA8A111-D G  Wa           
+0509 Hephaestus   D542642-4 G  Ni Po     S  
+0603 Nemesis      E32197A-9    In Na Po     
+0604 Turms        B77A464-B G  Ni Wa     N  
+0609 El-Elyon     C848556-7    Ag Ni     S  
+0702 Persephone   B553589-9 G  Ni Po        
+0705 Artume       A303330-C G  Ic Va     N  
+0709 Proserpina   A426464-A G  Ni        N  
+0801 Selene       X677998-1 G  In           
+0806 Bacchus      B7A8962-B G            N  
+0809 Zvuv         A510321-A G               
+ UNIVERSAL OS v.21.1
+
+ S U B S E C T O R  M A P
+
+   _____         _____         _____         _____       
+  /     \       /     \       /     \       /     \       / 
+ /       \_____/       \_____/       \_____/       \_____/ 
+ \       /  C *\       /  A *\       /     \       /  X *\ 
+  \_____/   @   \_____/   @   \_____/       \_____/   @   \ 
+  /     \DIONYSU/     \JUVENTA/     \       /  B *\SELENE / 
+ /       \_0201/       \_0401/       \_____/   @   \_0801/ 
+ \       /  E  \       /     \       /     \PERSEPH/     \ 
+  \_____/   @   \_____/       \_____/       \_0702/       \ 
+  /  A *\POSEIDO/     \       /     \       /     \       / 
+ /   @   \_0202/       \_____/       \_____/       \_____/ 
+ \CERES  /     \       /  B *\       /  E  \       /     \ 
+  \_0103/       \_____/   @   \_____/   @   \_____/       \ 
+  /     \       /     \CHLORIS/  B *\NEMESIS/     \       / 
+ /       \_____/       \_0403/*  O   \_0603/       \_____/ 
+ \       /     \       /     \SELENE /  B *\       /     \ 
+  \_____/       \_____/       \ 0504/*  @   \_____/       \ 
+  /  D  \       /     \       /     \TURMS  /  A *\       / 
+ /   O   \_____/       \_____/       \ 0604/*  @   \_____/ 
+ \HESTIA /     \       /  A *\       /     \ARTUME /     \ 
+  \^0105/       \_____/   O   \_____/       \ 0705/       \ 
+  /  C *\       /     \PERSEPH/  X  \       /     \       / 
+ /   @   \_____/       \_0405/   @   \_____/       \_____/ 
+ \ARTEMIS/  B *\       /     \HESTIA /     \       /  B *\ 
+  \^0106/*  @   \_____/       \_0506/       \_____/*  @   \ 
+  /     \DOMOVOI/  B *\       /  A *\       /     \BACCHUS/ 
+ /       \ 0206/   @   \_____/   @   \_____/       \ 0806/ 
+ \       /  C *\UNI    /  B *\PLUTO  /     \       /     \ 
+  \_____/   @   \_0307/*  @   \_0507/       \_____/       \ 
+  /     \ARCUS  /     \TINIA  /     \       /     \       / 
+ /       \_0207/       \ 0407/       \_____/       \_____/ 
+ \       /     \       /     \       /     \       /     \ 
+  \_____/       \_____/       \_____/       \_____/       \ 
+  /  A *\       /  D *\       /  D *\       /  A *\       / 
+ /   @   \_____/   @   \_____/   @   \_____/*  @   \_____/ 
+ \JUVENTA/  A  \ZEUS   /  A *\HEPHAES/  C  \PROSERP/  A *\ 
+  \_0109/*  O   \_0309/   @   \^0509/   @   \ 0709/   O   \ 
+  /  B *\CERES  /     \ARTEMIS/     \EL-ELYO/     \ZVUV   / 
+ /   @   \ 0209/       \_0409/       \^0609/       \_0809/ 
+ \HYPNOS /     \       /     \       /     \       /     \ 
+  \_0110/       \_____/       \_____/       \_____/       \ 
+        \       /     \       /     \       /     \       /
+         \_____/       \_____/       \_____/       \_____/
+
